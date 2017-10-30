@@ -1,5 +1,5 @@
 # miniature-carnival
-Model-driven Twitter Clone Exploring RedSeeDs
+Model-driven Twitter Clone Exploring RedSeeDS
 
 
 # References
