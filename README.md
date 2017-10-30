@@ -12,3 +12,9 @@ https://www.slideshare.net/bartvermijlen/how-to-build-a-product-backlog-with-use
 Twitter (2017) Developer
 
 https://developer.twitter.com/en.html
+
+
+RedSeeDs (2017)
+
+http://smog.iem.pw.edu.pl/redseeds/
+
