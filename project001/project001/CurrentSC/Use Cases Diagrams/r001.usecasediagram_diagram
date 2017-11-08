@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:usecasediagram="http://usecasediagram/1.0" xmi:id="_bfnfscLeEeew0dOfzeyLCw" type="UseCaseDiagram" name="r001.usecasediagram_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_dxBhoMLeEeew0dOfzeyLCw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_dxLSoMLeEeew0dOfzeyLCw" type="5001"/>
+    <element xmi:type="usecasediagram:Actor" href="r001.usecasediagram#22"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dxBhocLeEeew0dOfzeyLCw" x="144" y="96"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_d_olYMLeEeew0dOfzeyLCw" type="2002">
+    <children xmi:type="notation:DecorationNode" xmi:id="_d_olZMLeEeew0dOfzeyLCw" type="5002"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_d_olYcLeEeew0dOfzeyLCw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_d_olYsLeEeew0dOfzeyLCw" fontName="Segoe UI"/>
+    <element xmi:type="usecasediagram:UseCase" href="r001.usecasediagram#26"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d_olY8LeEeew0dOfzeyLCw" x="276" y="108"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_bfnfssLeEeew0dOfzeyLCw"/>
+  <element xmi:type="usecasediagram:UseCaseDiagram" href="r001.usecasediagram#/"/>
+</notation:Diagram>
