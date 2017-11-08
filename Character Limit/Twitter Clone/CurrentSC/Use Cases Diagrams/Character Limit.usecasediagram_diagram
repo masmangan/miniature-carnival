@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:usecasediagram="http://usecasediagram/1.0" xmi:id="_CNs7IcSBEeey-u8FWSsNPA" type="UseCaseDiagram" name="Character Limit.usecasediagram_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_DQ1zIMSBEeey-u8FWSsNPA" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_DQ1zIsSBEeey-u8FWSsNPA" type="5001"/>
+    <element xmi:type="usecasediagram:Actor" href="Character Limit.usecasediagram#20"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DQ1zIcSBEeey-u8FWSsNPA" x="160" y="161"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_FoaHcMSBEeey-u8FWSsNPA" type="2002">
+    <children xmi:type="notation:DecorationNode" xmi:id="_FoaHdMSBEeey-u8FWSsNPA" type="5002"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_FoaHccSBEeey-u8FWSsNPA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_FoaHcsSBEeey-u8FWSsNPA" fontName="Segoe UI"/>
+    <element xmi:type="usecasediagram:UseCase" href="Character Limit.usecasediagram#63"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FoaHc8SBEeey-u8FWSsNPA" x="320" y="80"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_CNs7IsSBEeey-u8FWSsNPA"/>
+  <element xmi:type="usecasediagram:UseCaseDiagram" href="Character Limit.usecasediagram#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_IpmnkMSBEeey-u8FWSsNPA" type="4002" source="_DQ1zIMSBEeey-u8FWSsNPA" target="_FoaHcMSBEeey-u8FWSsNPA">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_IpmnkcSBEeey-u8FWSsNPA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_IpmnksSBEeey-u8FWSsNPA" fontName="Segoe UI"/>
+    <element xmi:type="usecasediagram:Association" href="Character Limit.usecasediagram#75"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ipmnk8SBEeey-u8FWSsNPA" points="[19, -8, -174, 71]$[139, -90, -54, -11]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IqWOcMSBEeey-u8FWSsNPA" id="(0.525,0.21666666666666667)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IqWOccSBEeey-u8FWSsNPA" id="(0.4956896551724138,0.9625)"/>
+  </edges>
+</notation:Diagram>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usecasediagram:UseCaseDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:usecasediagram="http://usecasediagram/1.0" name="Character Limit" package="12">
+  <actors id="20"/>
+  <usecases id="63"/>
+</usecasediagram:UseCaseDiagram>
